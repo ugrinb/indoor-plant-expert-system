@@ -1,0 +1,12 @@
+[
+  {"name": "Snake Plant", "light": "low", "humidity": "low", "temp": "cool"},
+  {"name": "ZZ Plant", "light": "low", "humidity": "low", "temp": "moderate"},
+  {"name": "Peace Lily", "light": "low", "humidity": "high", "temp": "moderate"},
+  {"name": "Spider Plant", "light": "medium", "humidity": "medium", "temp": "cool"},
+  {"name": "Philodendron", "light": "medium", "humidity": "medium", "temp": "moderate"},
+  {"name": "Pothos", "light": "medium", "humidity": "medium", "temp": "warm"},
+  {"name": "Orchid", "light": "high", "humidity": "high", "temp": "warm"},
+  {"name": "Fiddle Leaf Fig", "light": "high", "humidity": "medium", "temp": "warm"},
+  {"name": "Areca Palm", "light": "high", "humidity": "high", "temp": "warm"},
+  {"name": "Aloe Vera", "light": "high", "humidity": "low", "temp": "warm"}
+]
